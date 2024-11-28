@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\lab5.1t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2371A77C-DF2C-4376-AD4E-477AEEBA7624}|lab5.1t\\lab5.1t.vcxproj|C:\\Users\\DELL\\source\\repos\\lab5.1t\\lab5.1t\\lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2371A77C-DF2C-4376-AD4E-477AEEBA7624}|lab5.1t\\lab5.1t.vcxproj|solutionrelative:lab5.1t\\lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0875AF9-5C8B-4D43-942D-C1FB98A069F4}|UnitTest5.1\\UnitTest5.1.vcxproj|C:\\Users\\DELL\\source\\repos\\lab5.1t\\UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0875AF9-5C8B-4D43-942D-C1FB98A069F4}|UnitTest5.1\\UnitTest5.1.vcxproj|solutionrelative:UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\lab5.1t\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.1\\UnitTest5.1.cpp",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\lab5.1t\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeToolTip": "UnitTest5.1\\UnitTest5.1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T14:46:37.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\lab5.1t\\lab5.1t\\lab5.1.cpp",
+              "RelativeDocumentMoniker": "lab5.1t\\lab5.1.cpp",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\lab5.1t\\lab5.1t\\lab5.1.cpp",
+              "RelativeToolTip": "lab5.1t\\lab5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T14:38:02.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
